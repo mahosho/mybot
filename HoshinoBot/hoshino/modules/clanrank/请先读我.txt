@@ -1,0 +1,8 @@
+请把clanrank文件夹放置到module文件夹下 在config.py中添加clanrank插件
+随后请在config.json中后面的""中填写自己公会的名字
+
+查询指令 
+公会战排名（查询结果为自己公会的排名）
+公会战排名#XXXXXX（查询结果为XXXXXX公会的排名）
+
+数据来源：https://github.com/Kengxxiao/Kyouka
